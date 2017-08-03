@@ -68,6 +68,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 var $ = __webpack_require__(1);
+__webpack_require__(2);
 
 var str = 'wert';
 
@@ -10339,6 +10340,19 @@ if ( !noGlobal ) {
 return jQuery;
 } );
 
+
+/***/ }),
+/* 2 */
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__(3);
+
+
+/***/ }),
+/* 3 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
 
 /***/ })
 /******/ ]);

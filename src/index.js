@@ -1,4 +1,5 @@
 var $ = require('jquery');
+require('./sass');
 
 var str = 'wert';
 
